@@ -44,7 +44,7 @@ AffordableRentals is a company specialising in car rentals to customers. The com
     
 10.  Once the payment has been confirmed, an email is sent to the customer confirming the booking.
     
-11.  The online system must permit staff of Affordable Rentals to log in to the system with a username and password.
+11.  The online system must permit staff of AffordableRentals to log in to the system with a username and password.
     
 12.  Admin staff, once logged in, will be able to enter new car information into the system.
     
@@ -57,9 +57,9 @@ AffordableRentals is a company specialising in car rentals to customers. The com
 
 1.  Identify the system actors and goals.  **(1 mark)**
     
-2.  Draw a use-case diagram to model the behaviour of the online rental system. The model should include the actors, the use cases, the relation between the use cases and the actors and the relation between the use cases. _(Refer to the lecture slide 'Use Case Diagram: Device Control' to help you with this task.)_  **(3 marks)** 
+2.  Draw a use-case diagram to model the behaviour of the online rental system. The model should include the actors, the use cases, the relation between the use cases and the actors and the relation between the use cases. _(Refer to the lecture slide 'Use Case Diagram: Device Control' to help you with this task.)_  **(5 marks)** 
 
-3.  Define a detailed use-case specification for the main use-case of a customer renting a car.  **(2 marks)**
+3.  Define a detailed use-case specification for the main use-case of a customer renting a car.  **(4 marks)**
 
 	Use the template provided in the lecture to define this specification. It must include:
 
