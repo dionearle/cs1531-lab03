@@ -8,7 +8,7 @@
 
 This lab must be completed during your lab session and for this lab, you are expected to work in **groups of two**. For the odd-numbered classes, one group of three may be permitted.
 
-## Task 1: Requirements Analysis (6 marks)
+## Task 1: Requirements Analysis (10 marks)
 
 AffordableRentals is a company specialising in car rentals to customers. The company would like to develop a web-based car rental system to enable customers to rent cars online prior to their scheduled pick-up date and time. This software development project has been contracted to a software consultancy firm who has completed the requirements gathering and developed the following high-level problem statement. For the purposes of this lab, the scope of the system is limited to the following functionality.
 
