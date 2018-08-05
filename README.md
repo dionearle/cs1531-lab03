@@ -139,5 +139,5 @@ The output of your program should work as shown in the example above.
 Similar to the last lab, you will use the `pytest` package to test your program. You can run the tests by simply running
 
 ```bash
-pytest
+python3 -m pytest test_guesser.py
 ```
