@@ -1,0 +1,20 @@
+Actors:
+Customer
+QBEI Insurances
+External Credit Card System
+Staff (Admin staff & managers)
+System/Database
+
+Use Cases:
+       Actor       Actor Goals
+UC1    Customer    Search for cars
+UC2    Customer    Select car and proceed with booking
+UC3    Customer    Provide booking details
+UC4    Insurance   Purchase insurance cover (optional)
+UC5    Customer    Compute net price and display to customer
+UC6    Customer    Provides credit card details
+UC7    Credit Card Confirm credit card payment + send email
+UC9    Staff       Log in to system with username and password
+UC10   Admin Staff Enter new car information into system
+UC11   Manager     Generate weekly reports of car logs
+

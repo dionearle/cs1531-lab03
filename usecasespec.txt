@@ -1,0 +1,22 @@
+Use Case: Customer renting a car
+
+Brief Description: User searches and selects a car to purchase, with additional information having to be entered for the purchase to be successful.
+
+Initiating Actor: Customer, Credit Card system
+
+Actor's Goal: To successfully find and purhcase a car for rent
+
+Participating Actors: QBEI Insurance, External Credit Card System
+
+Flow of events:
+1. Customer opens website and enters search critera for the car they wish to rent, and then searches the selection of cars. If they discover a car they wish to rentm they can select to do so.
+2. extend::SelectCar(UC2)
+3. Once the customer has selected a car, they must then provide booking details, and optionally purchase insurance for the car through an external insurance company.
+4. include::ProvideBookingDetails(UC3)
+5. extend::PurchaseInsurance(UC4)
+6. Once the customer has filled in all of their information, a bill is computed and displayed to the user.
+7. include::ComputeDisplayCost(UC5)
+8. The final step involves purchasing the car for the displayed cost, with the customer providing credit card details.
+9. include::ProvideCCDetails(UC6)
+10. The entered credit card information of the customer must be confirmed by an external system, which analyses the data and then sends the user a confirmation email if the credit card confirmation was successful.
+11. include::ConfirmCreditCard(UC7)
